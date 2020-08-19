@@ -2,7 +2,9 @@
 
 终于下定决心刷代码了... 日常记录，刷leetcode的代码与笔记。
 
-仓库即将分为3个部分 easy, medium, hard。小白先从easy的第一题开始刷起，之后也许会根据tag刷。
+仓库即将分为3个部分 easy, medium, hard。
+
+感谢 [yuanguangxin](https://github.com/yuanguangxin/LeetCode) 大佬的分享的刷题tag和目录，准备先按此tag刷一遍python版本。
 
 ## 笔记内容/记录方法
 
